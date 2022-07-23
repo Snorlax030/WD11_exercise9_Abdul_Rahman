@@ -1,0 +1,72 @@
+.head{
+    background-image: url("../img/bg7.jpg");
+    min-height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#name{
+    color: aliceblue;
+    text-align: left;
+    padding-top: 40px;
+}
+#description{
+    color: aliceblue;
+    text-align: left;
+}
+.nav-item{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+}
+.myself{
+    width: 300px;
+    
+}
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    background-color: black;
+}
+#contact{
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+}
+.avatar{
+    width: 200px;
+}
+#contactImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+#educ{
+    text-align: center;
+}
+.hero{
+    background-color: rgb(230, 230, 230);
+}
+#title{
+    text-align: center;
+   margin: 30px;
+    
+}
+#contact{
+    width: 70px;
+    margin: 30px;;
+}
+#number{
+    display: inline;
+    padding-left: 10px;
+    font-size: 26px;
+}
+#email{
+    width: 10%;
+}
+#myimage{
+    width: 100%;
+}
